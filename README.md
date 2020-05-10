@@ -1,2 +1,1 @@
-# freecodecamp_url_shortner_microservice
-freecodecamp_url_shortner_microservice
+# Backend Challenges boilerplate - package.json
